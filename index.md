@@ -1,4 +1,4 @@
-## Welcome to Joy Griffin IFSM Project
+## Welcome to Joy Griffin IFSM Project 2017
 
 You can use the [editor on GitHub](https://github.com/ifsmprojectgriffin/ifsmprojectgriffin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
